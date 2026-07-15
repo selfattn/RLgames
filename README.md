@@ -70,4 +70,7 @@ RL 的地图，这次从直觉出发。
 
 ## 文章系列
 
-- [悬崖边上的两种走法: Q-Learning 与 SARSA](./posts/01-cliff-walking.md)
+- [开场白：三个实验，不用背公式的 RL 入门](./posts/00-intro.md)
+- [第一篇：同一座悬崖，两种走法——Q-Learning 与 SARSA](./posts/01-cliff-walking.md)
+- [第二篇：同一片冰面，两种算法——Value Iteration 与 Policy Iteration](./posts/02-frozen-lake.md)
+- [第三篇：同一根杆子，两条路线——DQN 与 PPO](./posts/03-cartpole.md)
